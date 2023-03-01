@@ -14,7 +14,7 @@ User can remove any meal from favorites. The user preferences will be updated an
 
 ## 🔗 Links
    
-   > ## Checkout the Website [Web Application]()
+   > ## Checkout the Website [Web Application](https://xyrocodes.github.io/Meal-App/)
    <br/>
    
    ## 💻 Screens
