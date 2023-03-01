@@ -20,7 +20,7 @@ User can remove any meal from favorites. The user preferences will be updated an
    ## 💻 Screens
    <br/>
    
-   ![image]()
+   ![image](https://github.com/xyrocodes/Meal-App/blob/main/images/Screenshot%202023-03-01%20105639.png)
    
    <br/>
    
